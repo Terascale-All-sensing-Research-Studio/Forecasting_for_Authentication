@@ -1,5 +1,7 @@
 ## [AIxVR2024] Using Motion Forecasting for Behavior-Based Virtual Reality (VR) Authentication
 
+## :boom::boom: *Update [Jan 2024]:* We won the Best Paper Award at the 6th IEEE International Conference on Artificial Intelligence & extended and Virtual Reality (AIxVR 2024)!
+
 <div align="center">
 <img src="https://github.com/Terascale-All-sensing-Research-Studio/Forecasting_for_Authentication/blob/main/figs/teaser.jpg" width=100% height=100%>
 </div>
