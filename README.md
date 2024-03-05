@@ -10,11 +10,11 @@ Task-based behavioral biometric authentication of users interacting in virtual r
 
 If you find our work helpful please cite us (to be completed soon):
 ```
-@inproceedings{liforecast,
+@inproceedings{li2024using,
   title={Using Motion Forecasting for Behavior-Based Virtual Reality (VR) Authentication},
-  author={Mingjun Li and Natasha Kholgade Banerjee and Sean Banerjee},
-  booktitle={2024 IEEE International Conference on Artificial Intelligence \& extended and Virtual Reality (AIxVR)},
-  pages={},
+  author={Li, Mingjun and Banerjee, Natasha Kholgade and Banerjee, Sean},
+  booktitle={2024 IEEE International Conference on Artificial Intelligence and eXtended and Virtual Reality (AIxVR)},
+  pages={31--40},
   year={2024},
   organization={IEEE}
 }
